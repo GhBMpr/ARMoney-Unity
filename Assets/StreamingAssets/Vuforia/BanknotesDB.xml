@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Carte_50dt" size="0.200000 0.101362" />
+    <ImageTarget name="Carte_5dt" size="0.200000 0.095474" />
+    <ImageTarget name="Carte_20dt" size="0.200000 0.096596" />
+    <ImageTarget name="Carte_10DT_V2" size="0.200000 0.112500" />
+    <ImageTarget name="Carte_10DT" size="0.200000 0.095667" />
+    <ImageTarget name="carte_e-Dinar" size="0.200000 0.123594" />
+  </Tracking>
+</QCARConfig>
